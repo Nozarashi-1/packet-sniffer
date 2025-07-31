@@ -22,7 +22,7 @@ When used alongside an ARP Spoofer, this tool can act as a man-in-the-middle ana
 
 🔧 Installation:
 
-    git clone https://github.com/your-username/packet-sniffer.git
+    git clone https://github.com/Nozarashi-1/packet-sniffer.git
 
     cd packet-sniffer
 
